@@ -1,16 +1,24 @@
-# music_app
+# Free Music App
 
-A new Flutter project.
+A flutter app to download songs and listen for free.
 
-## Getting Started
+## What Is Used?
 
-This project is a starting point for a Flutter application.
+- [API to search songs from Genius](https://api.genius.com/)
+- ----------------------------------------------------------
+- [Parse lyrics from genius](https://genius.com/)
+- ----------------------------------------------------------
+- [Version check from text on website](https://alikales.github.io/dlm)
+- ----------------------------------------------------------
+- [API to convert songs to MP3](https://rapidapi.com/ytjar/api/youtube-mp36/)
+- ----------------------------------------------------------
+- [API to get youtube video details](https://noembed.com)
+- ----------------------------------------------------------
+- [Unity ads](https://dashboard.unity3d.com)
 
-A few resources to get you started if this is your first Flutter project:
+## Links
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- ----------------------------------------------------------
+- [Website](https://alikales.github.io/dlm/)
+- ----------------------------------------------------------
+- [Playstore](https://play.google.com/store/apps/details?id=com.caroby.music_app&hl=en&gl=US)
